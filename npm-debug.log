@@ -1,0 +1,2088 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'd:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'd:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'nativescript-telerik-ui' ]
+2 info using npm@2.14.12
+3 info using node@v4.2.4
+4 verbose install initial load of D:\projects\kbmapp\package.json
+5 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\abbrev\package.json
+6 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\adm-zip\package.json
+7 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\ajv\package.json
+8 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\amdefine\package.json
+9 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\ansi-regex\package.json
+10 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\ansi-styles\package.json
+11 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\aproba\package.json
+12 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\are-we-there-yet\package.json
+13 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\array-find-index\package.json
+14 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\asn1\package.json
+15 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\assert-plus\package.json
+16 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\async-foreach\package.json
+17 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\asynckit\package.json
+18 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\aws-sign2\package.json
+19 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\aws4\package.json
+20 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\babel-code-frame\package.json
+21 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\babel-messages\package.json
+22 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\babel-runtime\package.json
+23 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\babel-traverse\package.json
+24 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\babel-types\package.json
+25 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\babylon\package.json
+26 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\balanced-match\package.json
+27 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\bcrypt-pbkdf\package.json
+28 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\block-stream\package.json
+29 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\bluebird\package.json
+30 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\boom\package.json
+31 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\brace-expansion\package.json
+32 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\builtin-modules\package.json
+33 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\camelcase\package.json
+34 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\camelcase-keys\package.json
+35 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\caseless\package.json
+36 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\chalk\package.json
+37 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\cliui\package.json
+38 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\co\package.json
+39 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\code-point-at\package.json
+40 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\combined-stream\package.json
+41 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\concat-map\package.json
+42 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\console-control-strings\package.json
+43 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\core-js\package.json
+44 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\core-util-is\package.json
+45 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\cross-spawn\package.json
+46 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\cryptiles\package.json
+47 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\currently-unhandled\package.json
+48 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\dashdash\package.json
+49 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\debug\package.json
+50 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\decamelize\package.json
+51 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\delayed-stream\package.json
+52 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\delegates\package.json
+53 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\ecc-jsbn\package.json
+54 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\error-ex\package.json
+55 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\escape-string-regexp\package.json
+56 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\esutils\package.json
+57 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\extend\package.json
+58 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\extsprintf\package.json
+59 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\find-up\package.json
+60 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\forever-agent\package.json
+61 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\form-data\package.json
+62 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\fs.realpath\package.json
+63 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\fstream\package.json
+64 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\gauge\package.json
+65 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\gaze\package.json
+66 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\get-caller-file\package.json
+67 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\get-stdin\package.json
+68 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\getpass\package.json
+69 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\glob\package.json
+70 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\globals\package.json
+71 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\globule\package.json
+72 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\graceful-fs\package.json
+73 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\har-schema\package.json
+74 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\har-validator\package.json
+75 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\has-ansi\package.json
+76 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\has-unicode\package.json
+77 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\hawk\package.json
+78 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\hoek\package.json
+79 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\hosted-git-info\package.json
+80 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\http-signature\package.json
+81 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\ie-shim\package.json
+82 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\in-publish\package.json
+83 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\indent-string\package.json
+84 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\inflight\package.json
+85 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\inherits\package.json
+86 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\invariant\package.json
+87 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\invert-kv\package.json
+88 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\is-arrayish\package.json
+89 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\is-builtin-module\package.json
+90 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\is-finite\package.json
+91 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\is-fullwidth-code-point\package.json
+92 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\is-typedarray\package.json
+93 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\is-utf8\package.json
+94 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\isarray\package.json
+95 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\isexe\package.json
+96 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\isstream\package.json
+97 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\jodid25519\package.json
+98 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\js-base64\package.json
+99 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\js-tokens\package.json
+100 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\jsbn\package.json
+101 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\json-schema\package.json
+102 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\json-stable-stringify\package.json
+103 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\json-stringify-safe\package.json
+104 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\jsonify\package.json
+105 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\jsprim\package.json
+106 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\lazy\package.json
+107 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\lcid\package.json
+108 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\load-json-file\package.json
+109 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\lodash\package.json
+110 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\lodash.assign\package.json
+111 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\lodash.clonedeep\package.json
+112 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\lodash.mergewith\package.json
+113 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\loose-envify\package.json
+114 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\loud-rejection\package.json
+115 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\lru-cache\package.json
+116 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\map-obj\package.json
+117 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\meow\package.json
+118 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\mime-db\package.json
+119 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\mime-types\package.json
+120 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\minimatch\package.json
+121 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\minimist\package.json
+122 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\mkdirp\package.json
+123 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\moment\package.json
+124 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\ms\package.json
+125 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nan\package.json
+126 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nativescript-angular\package.json
+127 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nativescript-dev-android-snapshot\package.json
+128 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nativescript-dev-sass\package.json
+129 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nativescript-dev-typescript\package.json
+130 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nativescript-hook\package.json
+131 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nativescript-intl\package.json
+132 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nativescript-localstorage\package.json
+133 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nativescript-theme-core\package.json
+134 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\node-gyp\package.json
+135 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\node-sass\package.json
+136 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\nopt\package.json
+137 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\normalize-package-data\package.json
+138 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\npmlog\package.json
+139 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\number-is-nan\package.json
+140 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\oauth-sign\package.json
+141 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\object-assign\package.json
+142 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\once\package.json
+143 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\os-homedir\package.json
+144 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\os-locale\package.json
+145 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\os-tmpdir\package.json
+146 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\osenv\package.json
+147 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\parse-json\package.json
+148 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\parse5\package.json
+149 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\path-exists\package.json
+150 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\path-is-absolute\package.json
+151 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\path-type\package.json
+152 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\performance-now\package.json
+153 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\pify\package.json
+154 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\pinkie\package.json
+155 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\pinkie-promise\package.json
+156 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\process-nextick-args\package.json
+157 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\pseudomap\package.json
+158 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\punycode\package.json
+159 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\qs\package.json
+160 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\querystring\package.json
+161 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\read-pkg\package.json
+162 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\read-pkg-up\package.json
+163 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\readable-stream\package.json
+164 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\redent\package.json
+165 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\reflect-metadata\package.json
+166 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\regenerator-runtime\package.json
+167 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\repeating\package.json
+168 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\request\package.json
+169 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\require-directory\package.json
+170 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\require-main-filename\package.json
+171 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\rimraf\package.json
+172 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\rxjs\package.json
+173 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\safe-buffer\package.json
+174 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\sass-graph\package.json
+175 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\scss-tokenizer\package.json
+176 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\semver\package.json
+177 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\set-blocking\package.json
+178 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\shelljs\package.json
+179 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\signal-exit\package.json
+180 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\sntp\package.json
+181 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\source-map\package.json
+182 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\spdx-correct\package.json
+183 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\spdx-expression-parse\package.json
+184 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\spdx-license-ids\package.json
+185 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\sshpk\package.json
+186 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\stdout-stream\package.json
+187 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\string-width\package.json
+188 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\string_decoder\package.json
+189 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\stringstream\package.json
+190 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\strip-ansi\package.json
+191 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\strip-bom\package.json
+192 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\strip-indent\package.json
+193 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\supports-color\package.json
+194 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\symbol-observable\package.json
+195 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\tar\package.json
+196 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\tns-core-modules\package.json
+197 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\tns-core-modules-widgets\package.json
+198 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\to-fast-properties\package.json
+199 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\tough-cookie\package.json
+200 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\trim-newlines\package.json
+201 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\tunnel-agent\package.json
+202 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\tweetnacl\package.json
+203 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\typescript\package.json
+204 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\url\package.json
+205 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\util-deprecate\package.json
+206 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\uuid\package.json
+207 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\validate-npm-package-license\package.json
+208 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\verror\package.json
+209 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\which\package.json
+210 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\which-module\package.json
+211 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\wide-align\package.json
+212 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\wrap-ansi\package.json
+213 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\wrappy\package.json
+214 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\y18n\package.json
+215 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\yallist\package.json
+216 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\yargs\package.json
+217 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\yargs-parser\package.json
+218 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\zone.js\package.json
+219 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\@angular\common\package.json
+220 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\@angular\compiler\package.json
+221 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\@angular\core\package.json
+222 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\@angular\forms\package.json
+223 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\@angular\http\package.json
+224 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\@angular\platform-browser\package.json
+225 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\@angular\platform-browser-dynamic\package.json
+226 verbose installManyTop reading scoped package data from D:\projects\kbmapp\node_modules\@angular\router\package.json
+227 info package.json adm-zip@0.4.7 No license field.
+228 info package.json async-foreach@0.1.3 No license field.
+229 info package.json bcrypt-pbkdf@1.0.1 No repository field.
+230 info package.json esutils@2.0.2 No license field.
+231 info package.json extsprintf@1.0.2 No license field.
+232 info package.json js-base64@2.1.9 license should be a valid SPDX license expression
+233 info package.json json-schema@0.2.3 No license field.
+234 info package.json jsonify@0.0.0 license should be a valid SPDX license expression
+235 info package.json lazy@1.0.11 license should be a valid SPDX license expression
+236 info package.json nativescript-dev-android-snapshot@0.0.9 No repository field.
+237 info package.json nativescript-localstorage@1.1.2 license should be a valid SPDX license expression
+238 info package.json nativescript-intl@0.0.10 No repository field.
+239 info package.json nativescript-intl@0.0.10 No license field.
+240 info package.json parse5@1.3.2 No license field.
+241 info package.json punycode@1.3.2 punycode is also the name of a node core module.
+242 info package.json querystring@0.2.0 querystring is also the name of a node core module.
+243 info package.json querystring@0.2.0 No license field.
+244 info package.json sntp@1.0.9 No license field.
+245 info package.json stdout-stream@1.4.0 No license field.
+246 info package.json string_decoder@1.0.1 string_decoder is also the name of a node core module.
+247 info package.json tns-core-modules@2.4.4 No README data
+248 info package.json url@0.10.3 url is also the name of a node core module.
+249 info package.json verror@1.3.6 No license field.
+250 verbose readDependencies loading dependencies from D:\projects\kbmapp\package.json
+251 silly cache add args [ 'nativescript-telerik-ui', null ]
+252 verbose cache add spec nativescript-telerik-ui
+253 silly cache add parsed spec Result {
+253 silly cache add   raw: 'nativescript-telerik-ui',
+253 silly cache add   scope: null,
+253 silly cache add   name: 'nativescript-telerik-ui',
+253 silly cache add   rawSpec: '',
+253 silly cache add   spec: 'latest',
+253 silly cache add   type: 'tag' }
+254 silly addNamed nativescript-telerik-ui@latest
+255 verbose addNamed "latest" is being treated as a dist-tag for nativescript-telerik-ui
+256 info addNameTag [ 'nativescript-telerik-ui', 'latest' ]
+257 silly mapToRegistry name nativescript-telerik-ui
+258 silly mapToRegistry using default registry
+259 silly mapToRegistry registry https://registry.npmjs.org/
+260 silly mapToRegistry uri https://registry.npmjs.org/nativescript-telerik-ui
+261 verbose addNameTag registry:https://registry.npmjs.org/nativescript-telerik-ui not in flight; fetching
+262 verbose get https://registry.npmjs.org/nativescript-telerik-ui not expired, no request
+263 silly addNameTag next cb for nativescript-telerik-ui with tag latest
+264 silly addNamed nativescript-telerik-ui@2.0.1
+265 verbose addNamed "2.0.1" is a plain semver version for nativescript-telerik-ui
+266 silly mapToRegistry name nativescript-telerik-ui
+267 silly mapToRegistry using default registry
+268 silly mapToRegistry registry https://registry.npmjs.org/
+269 silly mapToRegistry uri https://registry.npmjs.org/nativescript-telerik-ui
+270 verbose addRemoteTarball https://registry.npmjs.org/nativescript-telerik-ui/-/nativescript-telerik-ui-2.0.1.tgz not in flight; adding
+271 verbose addRemoteTarball [ 'https://registry.npmjs.org/nativescript-telerik-ui/-/nativescript-telerik-ui-2.0.1.tgz',
+271 verbose addRemoteTarball   '3639f3e93eaef64fb2aa2dc4aead5269ea7c8ba0' ]
+272 info retry fetch attempt 1 at 10:25:53 PM
+273 info attempt registry request try #1 at 10:25:53 PM
+274 http fetch GET https://registry.npmjs.org/nativescript-telerik-ui/-/nativescript-telerik-ui-2.0.1.tgz
+275 verbose request using bearer token for auth
+276 verbose request id 16c14551c32439b7
+277 http fetch 200 https://registry.npmjs.org/nativescript-telerik-ui/-/nativescript-telerik-ui-2.0.1.tgz
+278 silly fetchAndShaCheck shasum 3639f3e93eaef64fb2aa2dc4aead5269ea7c8ba0
+279 verbose addTmpTarball C:\Users\orenl\AppData\Local\Temp\npm-39028-372656d0\registry.npmjs.org\nativescript-telerik-ui\-\nativescript-telerik-ui-2.0.1.tgz not in flight; adding
+280 verbose addTmpTarball already have metadata; skipping unpack for nativescript-telerik-ui@2.0.1
+281 silly cache afterAdd nativescript-telerik-ui@2.0.1
+282 verbose afterAdd C:\Users\orenl\AppData\Roaming\npm-cache\nativescript-telerik-ui\2.0.1\package\package.json not in flight; writing
+283 verbose afterAdd C:\Users\orenl\AppData\Roaming\npm-cache\nativescript-telerik-ui\2.0.1\package\package.json written
+284 silly install resolved [ { name: 'nativescript-telerik-ui',
+284 silly install resolved     version: '2.0.1',
+284 silly install resolved     description: 'Progress NativeScript UI is a set of rich-ui, cross-platform components based on the native iOS and Android libraries provided by Telerik.',
+284 silly install resolved     nativescript: { ios: '3.0.0', android: '3.0.0' },
+284 silly install resolved     repository:
+284 silly install resolved      { type: 'git',
+284 silly install resolved        url: 'http://www.github.com/telerik/nativescript-ui-samples.git' },
+284 silly install resolved     bugs: { url: 'https://github.com/telerik/nativescript-ui-feedback/issues' },
+284 silly install resolved     scripts:
+284 silly install resolved      { preinstall: 'node ./scripts/eula-prompt.js',
+284 silly install resolved        postinstall: 'node ./scripts/email-prompt.js dev_uins_free' },
+284 silly install resolved     peerDependencies: { 'tns-core-modules': '^3.0.0 || ^3.0.0-rc.1' },
+284 silly install resolved     keywords: [ 'nativescript', 'ui', 'sidedrawer', 'listview' ],
+284 silly install resolved     author: { name: 'Progress' },
+284 silly install resolved     license: 'SEE LICENSE IN LICENSE.md',
+284 silly install resolved     files:
+284 silly install resolved      [ '**/*.js',
+284 silly install resolved        '**/*.metadata.json',
+284 silly install resolved        '**/*.d.ts',
+284 silly install resolved        '**/*.aar',
+284 silly install resolved        '**/*.framework',
+284 silly install resolved        'platforms/android/include.gradle',
+284 silly install resolved        '!platforms/ios/TelerikAppFeedback.framework/',
+284 silly install resolved        '!platforms/android/Chart*.aar',
+284 silly install resolved        '!platforms/android/Feedback*.aar',
+284 silly install resolved        '!platforms/android/Gauges*.aar',
+284 silly install resolved        '!platforms/android/Input*.aar',
+284 silly install resolved        '!calendar/',
+284 silly install resolved        '!chart/',
+284 silly install resolved        '!dataform/',
+284 silly install resolved        '!feedback/',
+284 silly install resolved        '!autocomplete/',
+284 silly install resolved        '!gauges/',
+284 silly install resolved        '!hooks/' ],
+284 silly install resolved     _id: 'nativescript-telerik-ui@2.0.1',
+284 silly install resolved     _shasum: '3639f3e93eaef64fb2aa2dc4aead5269ea7c8ba0',
+284 silly install resolved     _resolved: 'https://registry.npmjs.org/nativescript-telerik-ui/-/nativescript-telerik-ui-2.0.1.tgz',
+284 silly install resolved     _from: 'nativescript-telerik-ui@latest',
+284 silly install resolved     _npmVersion: '3.10.10',
+284 silly install resolved     _nodeVersion: '6.10.2',
+284 silly install resolved     _npmUser: { name: 'dginev', email: 'deyan.ginev@telerik.com' },
+284 silly install resolved     dist:
+284 silly install resolved      { shasum: '3639f3e93eaef64fb2aa2dc4aead5269ea7c8ba0',
+284 silly install resolved        tarball: 'https://registry.npmjs.org/nativescript-telerik-ui/-/nativescript-telerik-ui-2.0.1.tgz' },
+284 silly install resolved     maintainers: [ [Object], [Object], [Object] ],
+284 silly install resolved     _npmOperationalInternal:
+284 silly install resolved      { host: 'packages-12-west.internal.npmjs.com',
+284 silly install resolved        tmp: 'tmp/nativescript-telerik-ui-2.0.1.tgz_1493897178727_0.5110992705449462' },
+284 silly install resolved     directories: {} } ]
+285 info install nativescript-telerik-ui@2.0.1 into D:\projects\kbmapp
+286 info installOne nativescript-telerik-ui@2.0.1
+287 verbose installOne of nativescript-telerik-ui to D:\projects\kbmapp not in flight; installing
+288 verbose lock using C:\Users\orenl\AppData\Roaming\npm-cache\_locks\nativescript-telerik-ui-67c158a21c81991a.lock for D:\projects\kbmapp\node_modules\nativescript-telerik-ui
+289 silly install write writing nativescript-telerik-ui 2.0.1 to D:\projects\kbmapp\node_modules\nativescript-telerik-ui
+290 verbose unbuild node_modules\nativescript-telerik-ui
+291 silly gentlyRm D:\projects\kbmapp\node_modules\nativescript-telerik-ui is being purged from base D:\projects\kbmapp
+292 verbose gentlyRm don't care about contents; nuking D:\projects\kbmapp\node_modules\nativescript-telerik-ui
+293 verbose tar unpack C:\Users\orenl\AppData\Roaming\npm-cache\nativescript-telerik-ui\2.0.1\package.tgz
+294 verbose tar unpacking to D:\projects\kbmapp\node_modules\nativescript-telerik-ui
+295 silly gentlyRm D:\projects\kbmapp\node_modules\nativescript-telerik-ui is being purged
+296 verbose gentlyRm don't care about contents; nuking D:\projects\kbmapp\node_modules\nativescript-telerik-ui
+297 silly gunzTarPerm modes [ '777', '666' ]
+298 silly gunzTarPerm extractEntry package.json
+299 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+300 silly gunzTarPerm extractEntry README.md
+301 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+302 silly gunzTarPerm extractEntry LICENSE.md
+303 silly gunzTarPerm modified mode [ 'LICENSE.md', 420, 438 ]
+304 silly gunzTarPerm extractEntry ios.d.ts
+305 silly gunzTarPerm modified mode [ 'ios.d.ts', 420, 438 ]
+306 silly gunzTarPerm extractEntry listview/package.json
+307 silly gunzTarPerm modified mode [ 'listview/package.json', 420, 438 ]
+308 silly gunzTarPerm extractEntry listview/listview-common.js
+309 silly gunzTarPerm modified mode [ 'listview/listview-common.js', 420, 438 ]
+310 silly gunzTarPerm extractEntry listview/listview.android.js
+311 silly gunzTarPerm modified mode [ 'listview/listview.android.js', 420, 438 ]
+312 silly gunzTarPerm extractEntry listview/listview.ios.js
+313 silly gunzTarPerm modified mode [ 'listview/listview.ios.js', 420, 438 ]
+314 silly gunzTarPerm extractEntry listview/angular/package.json
+315 silly gunzTarPerm modified mode [ 'listview/angular/package.json', 420, 438 ]
+316 silly gunzTarPerm extractEntry listview/angular/index.js
+317 silly gunzTarPerm modified mode [ 'listview/angular/index.js', 420, 438 ]
+318 silly gunzTarPerm extractEntry listview/angular/listview-directives.js
+319 silly gunzTarPerm modified mode [ 'listview/angular/listview-directives.js', 420, 438 ]
+320 silly gunzTarPerm extractEntry listview/angular/index.d.ts
+321 silly gunzTarPerm modified mode [ 'listview/angular/index.d.ts', 420, 438 ]
+322 silly gunzTarPerm extractEntry listview/angular/index.metadata.json
+323 silly gunzTarPerm modified mode [ 'listview/angular/index.metadata.json', 420, 438 ]
+324 silly gunzTarPerm extractEntry listview/angular/listview-directives.d.ts
+325 silly gunzTarPerm modified mode [ 'listview/angular/listview-directives.d.ts', 420, 438 ]
+326 silly gunzTarPerm extractEntry listview/angular/listview-directives.metadata.json
+327 silly gunzTarPerm modified mode [ 'listview/angular/listview-directives.metadata.json',
+327 silly gunzTarPerm   420,
+327 silly gunzTarPerm   438 ]
+328 silly gunzTarPerm extractEntry listview/index.d.ts
+329 silly gunzTarPerm modified mode [ 'listview/index.d.ts', 420, 438 ]
+330 silly gunzTarPerm extractEntry listview/listview-common.metadata.json
+331 silly gunzTarPerm modified mode [ 'listview/listview-common.metadata.json', 420, 438 ]
+332 silly gunzTarPerm extractEntry listview/listview.ios.metadata.json
+333 silly gunzTarPerm modified mode [ 'listview/listview.ios.metadata.json', 420, 438 ]
+334 silly gunzTarPerm extractEntry listview/listview.android.metadata.json
+335 silly gunzTarPerm modified mode [ 'listview/listview.android.metadata.json', 420, 438 ]
+336 silly gunzTarPerm extractEntry sidedrawer/package.json
+337 silly gunzTarPerm modified mode [ 'sidedrawer/package.json', 420, 438 ]
+338 silly gunzTarPerm extractEntry sidedrawer/sidedrawer.android.js
+339 silly gunzTarPerm modified mode [ 'sidedrawer/sidedrawer.android.js', 420, 438 ]
+340 silly gunzTarPerm extractEntry sidedrawer/sidedrawer-common.js
+341 silly gunzTarPerm modified mode [ 'sidedrawer/sidedrawer-common.js', 420, 438 ]
+342 silly gunzTarPerm extractEntry sidedrawer/sidedrawer.ios.js
+343 silly gunzTarPerm modified mode [ 'sidedrawer/sidedrawer.ios.js', 420, 438 ]
+344 silly gunzTarPerm extractEntry sidedrawer/sidedrawer-common.metadata.json
+345 silly gunzTarPerm modified mode [ 'sidedrawer/sidedrawer-common.metadata.json', 420, 438 ]
+346 silly gunzTarPerm extractEntry sidedrawer/index.d.ts
+347 silly gunzTarPerm modified mode [ 'sidedrawer/index.d.ts', 420, 438 ]
+348 silly gunzTarPerm extractEntry sidedrawer/sidedrawer.android.metadata.json
+349 silly gunzTarPerm modified mode [ 'sidedrawer/sidedrawer.android.metadata.json', 420, 438 ]
+350 silly gunzTarPerm extractEntry sidedrawer/angular/package.json
+351 silly gunzTarPerm modified mode [ 'sidedrawer/angular/package.json', 420, 438 ]
+352 silly gunzTarPerm extractEntry sidedrawer/angular/index.js
+353 silly gunzTarPerm modified mode [ 'sidedrawer/angular/index.js', 420, 438 ]
+354 silly gunzTarPerm extractEntry sidedrawer/angular/side-drawer-directives.js
+355 silly gunzTarPerm modified mode [ 'sidedrawer/angular/side-drawer-directives.js', 420, 438 ]
+356 silly gunzTarPerm extractEntry sidedrawer/angular/index.d.ts
+357 silly gunzTarPerm modified mode [ 'sidedrawer/angular/index.d.ts', 420, 438 ]
+358 silly gunzTarPerm extractEntry sidedrawer/angular/index.metadata.json
+359 silly gunzTarPerm modified mode [ 'sidedrawer/angular/index.metadata.json', 420, 438 ]
+360 silly gunzTarPerm extractEntry sidedrawer/angular/side-drawer-directives.d.ts
+361 silly gunzTarPerm modified mode [ 'sidedrawer/angular/side-drawer-directives.d.ts', 420, 438 ]
+362 silly gunzTarPerm extractEntry sidedrawer/angular/side-drawer-directives.metadata.json
+363 silly gunzTarPerm modified mode [ 'sidedrawer/angular/side-drawer-directives.metadata.json',
+363 silly gunzTarPerm   420,
+363 silly gunzTarPerm   438 ]
+364 silly gunzTarPerm extractEntry sidedrawer/sidedrawer.ios.metadata.json
+365 silly gunzTarPerm modified mode [ 'sidedrawer/sidedrawer.ios.metadata.json', 420, 438 ]
+366 silly gunzTarPerm extractEntry android.d.ts
+367 silly gunzTarPerm modified mode [ 'android.d.ts', 493, 511 ]
+368 silly gunzTarPerm extractEntry platforms/android/Common-2017.1.504-dev-release.aar
+369 silly gunzTarPerm modified mode [ 'platforms/android/Common-2017.1.504-dev-release.aar',
+369 silly gunzTarPerm   420,
+369 silly gunzTarPerm   438 ]
+370 silly gunzTarPerm extractEntry platforms/android/Data-2017.1.504-dev-release.aar
+371 silly gunzTarPerm modified mode [ 'platforms/android/Data-2017.1.504-dev-release.aar', 420, 438 ]
+372 silly gunzTarPerm extractEntry platforms/android/List-2017.1.504-dev-release.aar
+373 silly gunzTarPerm modified mode [ 'platforms/android/List-2017.1.504-dev-release.aar', 420, 438 ]
+374 silly gunzTarPerm extractEntry platforms/android/Primitives-2017.1.504-dev-release.aar
+375 silly gunzTarPerm modified mode [ 'platforms/android/Primitives-2017.1.504-dev-release.aar',
+375 silly gunzTarPerm   420,
+375 silly gunzTarPerm   438 ]
+376 silly gunzTarPerm extractEntry platforms/android/include.gradle
+377 silly gunzTarPerm modified mode [ 'platforms/android/include.gradle', 420, 438 ]
+378 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSplineAreaSeries.h
+379 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSplineAreaSeries.h',
+379 silly gunzTarPerm   420,
+379 silly gunzTarPerm   438 ]
+380 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAlert.h
+381 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAlert.h',
+381 silly gunzTarPerm   420,
+381 silly gunzTarPerm   438 ]
+382 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAlertButtonsView.h
+383 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAlertButtonsView.h',
+383 silly gunzTarPerm   420,
+383 silly gunzTarPerm   438 ]
+384 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAlertContentView.h
+385 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAlertContentView.h',
+385 silly gunzTarPerm   420,
+385 silly gunzTarPerm   438 ]
+386 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAlertStyle.h
+387 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAlertStyle.h',
+387 silly gunzTarPerm   420,
+387 silly gunzTarPerm   438 ]
+388 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAlertView.h
+389 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAlertView.h',
+389 silly gunzTarPerm   420,
+389 silly gunzTarPerm   438 ]
+390 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteController.h
+391 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteController.h',
+391 silly gunzTarPerm   420,
+391 silly gunzTarPerm   438 ]
+392 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteCoverView.h
+393 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteCoverView.h',
+393 silly gunzTarPerm   420,
+393 silly gunzTarPerm   438 ]
+394 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteSuggestionCell.h
+395 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteSuggestionCell.h',
+395 silly gunzTarPerm   420,
+395 silly gunzTarPerm   438 ]
+396 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteTextView.h
+397 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteTextView.h',
+397 silly gunzTarPerm   420,
+397 silly gunzTarPerm   438 ]
+398 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteToken.h
+399 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteToken.h',
+399 silly gunzTarPerm   420,
+399 silly gunzTarPerm   438 ]
+400 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteTokenHolderView.h
+401 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteTokenHolderView.h',
+401 silly gunzTarPerm   420,
+401 silly gunzTarPerm   438 ]
+402 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteTokenRemoveButton.h
+403 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteTokenRemoveButton.h',
+403 silly gunzTarPerm   420,
+403 silly gunzTarPerm   438 ]
+404 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteTokenView.h
+405 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAutoCompleteTokenView.h',
+405 silly gunzTarPerm   420,
+405 silly gunzTarPerm   438 ]
+406 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKBalloonShape.h
+407 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKBalloonShape.h',
+407 silly gunzTarPerm   420,
+407 silly gunzTarPerm   438 ]
+408 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendar.h
+409 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendar.h',
+409 silly gunzTarPerm   420,
+409 silly gunzTarPerm   438 ]
+410 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarCell.h
+411 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarCell.h',
+411 silly gunzTarPerm   420,
+411 silly gunzTarPerm   438 ]
+412 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarCellStyle.h
+413 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarCellStyle.h',
+413 silly gunzTarPerm   420,
+413 silly gunzTarPerm   438 ]
+414 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayCell.h
+415 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayCell.h',
+415 silly gunzTarPerm   420,
+415 silly gunzTarPerm   438 ]
+416 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayCellStyle.h
+417 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayCellStyle.h',
+417 silly gunzTarPerm   420,
+417 silly gunzTarPerm   438 ]
+418 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayNameCell.h
+419 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayNameCell.h',
+419 silly gunzTarPerm   420,
+419 silly gunzTarPerm   438 ]
+420 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayView.h
+421 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayView.h',
+421 silly gunzTarPerm   420,
+421 silly gunzTarPerm   438 ]
+422 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewAllDayEventCell.h
+423 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewAllDayEventCell.h',
+423 silly gunzTarPerm   420,
+423 silly gunzTarPerm   438 ]
+424 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewAllDayEventCellStyle.h
+425 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewAllDayEventCellStyle.h',
+425 silly gunzTarPerm   420,
+425 silly gunzTarPerm   438 ]
+426 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewAllDayEventsView.h
+427 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewAllDayEventsView.h',
+427 silly gunzTarPerm   420,
+427 silly gunzTarPerm   438 ]
+428 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewAllDayEventsViewStyle.h
+429 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewAllDayEventsViewStyle.h',
+429 silly gunzTarPerm   420,
+429 silly gunzTarPerm   438 ]
+430 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventCell.h
+431 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventCell.h',
+431 silly gunzTarPerm   420,
+431 silly gunzTarPerm   438 ]
+432 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventCellStyle.h
+433 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventCellStyle.h',
+433 silly gunzTarPerm   420,
+433 silly gunzTarPerm   438 ]
+434 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventsLayout.h
+435 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventsLayout.h',
+435 silly gunzTarPerm   420,
+435 silly gunzTarPerm   438 ]
+436 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventsView.h
+437 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventsView.h',
+437 silly gunzTarPerm   420,
+437 silly gunzTarPerm   438 ]
+438 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventsViewStyle.h
+439 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewEventsViewStyle.h',
+439 silly gunzTarPerm   420,
+439 silly gunzTarPerm   438 ]
+440 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewPresenter.h
+441 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewPresenter.h',
+441 silly gunzTarPerm   420,
+441 silly gunzTarPerm   438 ]
+442 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewPresenterStyle.h
+443 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewPresenterStyle.h',
+443 silly gunzTarPerm   420,
+443 silly gunzTarPerm   438 ]
+444 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewTimeLine.h
+445 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDayViewTimeLine.h',
+445 silly gunzTarPerm   420,
+445 silly gunzTarPerm   438 ]
+446 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarDefaultTheme.h
+447 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarDefaultTheme.h',
+447 silly gunzTarPerm   420,
+447 silly gunzTarPerm   438 ]
+448 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarEvent.h
+449 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarEvent.h',
+449 silly gunzTarPerm   420,
+449 silly gunzTarPerm   438 ]
+450 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarEventKitDataSource.h
+451 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarEventKitDataSource.h',
+451 silly gunzTarPerm   420,
+451 silly gunzTarPerm   438 ]
+452 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarFlowPresenter.h
+453 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarFlowPresenter.h',
+453 silly gunzTarPerm   420,
+453 silly gunzTarPerm   438 ]
+454 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarIPadTheme.h
+455 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarIPadTheme.h',
+455 silly gunzTarPerm   420,
+455 silly gunzTarPerm   438 ]
+456 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarInlineView.h
+457 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarInlineView.h',
+457 silly gunzTarPerm   420,
+457 silly gunzTarPerm   438 ]
+458 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarInlineViewTableViewCell.h
+459 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarInlineViewTableViewCell.h',
+459 silly gunzTarPerm   420,
+459 silly gunzTarPerm   438 ]
+460 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarInlineViewTableViewCellStyle.h
+461 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarInlineViewTableViewCellStyle.h',
+461 silly gunzTarPerm   420,
+461 silly gunzTarPerm   438 ]
+462 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthCell.h
+463 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthCell.h',
+463 silly gunzTarPerm   420,
+463 silly gunzTarPerm   438 ]
+464 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthNameCell.h
+465 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthNameCell.h',
+465 silly gunzTarPerm   420,
+465 silly gunzTarPerm   438 ]
+466 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthNamesPresenter.h
+467 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthNamesPresenter.h',
+467 silly gunzTarPerm   420,
+467 silly gunzTarPerm   438 ]
+468 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthPresenter.h
+469 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthPresenter.h',
+469 silly gunzTarPerm   420,
+469 silly gunzTarPerm   438 ]
+470 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthPresenterStyle.h
+471 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthPresenterStyle.h',
+471 silly gunzTarPerm   420,
+471 silly gunzTarPerm   438 ]
+472 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthTitleCell.h
+473 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthTitleCell.h',
+473 silly gunzTarPerm   420,
+473 silly gunzTarPerm   438 ]
+474 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthView.h
+475 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthView.h',
+475 silly gunzTarPerm   420,
+475 silly gunzTarPerm   438 ]
+476 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthViewController.h
+477 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarMonthViewController.h',
+477 silly gunzTarPerm   420,
+477 silly gunzTarPerm   438 ]
+478 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarNavigationController.h
+479 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarNavigationController.h',
+479 silly gunzTarPerm   420,
+479 silly gunzTarPerm   438 ]
+480 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarPresenterBase.h
+481 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarPresenterBase.h',
+481 silly gunzTarPerm   420,
+481 silly gunzTarPerm   438 ]
+482 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarTextEffect.h
+483 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarTextEffect.h',
+483 silly gunzTarPerm   420,
+483 silly gunzTarPerm   438 ]
+484 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarTitleCell.h
+485 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarTitleCell.h',
+485 silly gunzTarPerm   420,
+485 silly gunzTarPerm   438 ]
+486 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarWeekDayCell.h
+487 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarWeekDayCell.h',
+487 silly gunzTarPerm   420,
+487 silly gunzTarPerm   438 ]
+488 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarWeekNumberCell.h
+489 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarWeekNumberCell.h',
+489 silly gunzTarPerm   420,
+489 silly gunzTarPerm   438 ]
+490 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarWeekPresenter.h
+491 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarWeekPresenter.h',
+491 silly gunzTarPerm   420,
+491 silly gunzTarPerm   438 ]
+492 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarYearNumberCell.h
+493 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarYearNumberCell.h',
+493 silly gunzTarPerm   420,
+493 silly gunzTarPerm   438 ]
+494 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarYearNumbersPresenter.h
+495 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarYearNumbersPresenter.h',
+495 silly gunzTarPerm   420,
+495 silly gunzTarPerm   438 ]
+496 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarYearPresenter.h
+497 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarYearPresenter.h',
+497 silly gunzTarPerm   420,
+497 silly gunzTarPerm   438 ]
+498 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarYearPresenterStyle.h
+499 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarYearPresenterStyle.h',
+499 silly gunzTarPerm   420,
+499 silly gunzTarPerm   438 ]
+500 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarYearTitleView.h
+501 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarYearTitleView.h',
+501 silly gunzTarPerm   420,
+501 silly gunzTarPerm   438 ]
+502 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCalendarYearViewController.h
+503 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCalendarYearViewController.h',
+503 silly gunzTarPerm   420,
+503 silly gunzTarPerm   438 ]
+504 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChart.h
+505 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChart.h',
+505 silly gunzTarPerm   420,
+505 silly gunzTarPerm   438 ]
+506 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAbsoluteVolumeOscillator.h
+507 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAbsoluteVolumeOscillator.h',
+507 silly gunzTarPerm   420,
+507 silly gunzTarPerm   438 ]
+508 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAccumulationDistributionLine.h
+509 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAccumulationDistributionLine.h',
+509 silly gunzTarPerm   420,
+509 silly gunzTarPerm   438 ]
+510 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAdaptiveMovingAverageIndicator.h
+511 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAdaptiveMovingAverageIndicator.h',
+511 silly gunzTarPerm   420,
+511 silly gunzTarPerm   438 ]
+512 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAnnotation.h
+513 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAnnotation.h',
+513 silly gunzTarPerm   420,
+513 silly gunzTarPerm   438 ]
+514 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAnnotationStyle.h
+515 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAnnotationStyle.h',
+515 silly gunzTarPerm   420,
+515 silly gunzTarPerm   438 ]
+516 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAreaSeries.h
+517 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAreaSeries.h',
+517 silly gunzTarPerm   420,
+517 silly gunzTarPerm   438 ]
+518 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAverageTrueRangeIndicator.h
+519 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAverageTrueRangeIndicator.h',
+519 silly gunzTarPerm   420,
+519 silly gunzTarPerm   438 ]
+520 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAxis.h
+521 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAxis.h',
+521 silly gunzTarPerm   420,
+521 silly gunzTarPerm   438 ]
+522 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAxisLabelStyle.h
+523 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAxisLabelStyle.h',
+523 silly gunzTarPerm   420,
+523 silly gunzTarPerm   438 ]
+524 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAxisMajorTickStyle.h
+525 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAxisMajorTickStyle.h',
+525 silly gunzTarPerm   420,
+525 silly gunzTarPerm   438 ]
+526 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAxisRender.h
+527 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAxisRender.h',
+527 silly gunzTarPerm   420,
+527 silly gunzTarPerm   438 ]
+528 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAxisStyle.h
+529 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAxisStyle.h',
+529 silly gunzTarPerm   420,
+529 silly gunzTarPerm   438 ]
+530 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAxisTickStyle.h
+531 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAxisTickStyle.h',
+531 silly gunzTarPerm   420,
+531 silly gunzTarPerm   438 ]
+532 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartAxisTitleStyle.h
+533 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartAxisTitleStyle.h',
+533 silly gunzTarPerm   420,
+533 silly gunzTarPerm   438 ]
+534 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBalloonAnnotation.h
+535 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBalloonAnnotation.h',
+535 silly gunzTarPerm   420,
+535 silly gunzTarPerm   438 ]
+536 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBalloonAnnotationStyle.h
+537 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBalloonAnnotationStyle.h',
+537 silly gunzTarPerm   420,
+537 silly gunzTarPerm   438 ]
+538 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBandAnnotation.h
+539 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBandAnnotation.h',
+539 silly gunzTarPerm   420,
+539 silly gunzTarPerm   438 ]
+540 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBandAnnotationStyle.h
+541 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBandAnnotationStyle.h',
+541 silly gunzTarPerm   420,
+541 silly gunzTarPerm   438 ]
+542 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBandIndicator.h
+543 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBandIndicator.h',
+543 silly gunzTarPerm   420,
+543 silly gunzTarPerm   438 ]
+544 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBandVisualPoint.h
+545 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBandVisualPoint.h',
+545 silly gunzTarPerm   420,
+545 silly gunzTarPerm   438 ]
+546 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBarSeries.h
+547 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBarSeries.h',
+547 silly gunzTarPerm   420,
+547 silly gunzTarPerm   438 ]
+548 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBollingerBandIndicator.h
+549 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBollingerBandIndicator.h',
+549 silly gunzTarPerm   420,
+549 silly gunzTarPerm   438 ]
+550 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBubbleDataPoint.h
+551 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBubbleDataPoint.h',
+551 silly gunzTarPerm   420,
+551 silly gunzTarPerm   438 ]
+552 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBubbleSeries.h
+553 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBubbleSeries.h',
+553 silly gunzTarPerm   420,
+553 silly gunzTarPerm   438 ]
+554 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartBubbleVisualPoint.h
+555 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartBubbleVisualPoint.h',
+555 silly gunzTarPerm   420,
+555 silly gunzTarPerm   438 ]
+556 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartCandlestickBar.h
+557 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartCandlestickBar.h',
+557 silly gunzTarPerm   420,
+557 silly gunzTarPerm   438 ]
+558 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartCandlestickSeries.h
+559 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartCandlestickSeries.h',
+559 silly gunzTarPerm   420,
+559 silly gunzTarPerm   438 ]
+560 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartCategory.h
+561 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartCategory.h',
+561 silly gunzTarPerm   420,
+561 silly gunzTarPerm   438 ]
+562 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartCategoryAxis.h
+563 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartCategoryAxis.h',
+563 silly gunzTarPerm   420,
+563 silly gunzTarPerm   438 ]
+564 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartChaikinOscillator.h
+565 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartChaikinOscillator.h',
+565 silly gunzTarPerm   420,
+565 silly gunzTarPerm   438 ]
+566 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartColumnSeries.h
+567 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartColumnSeries.h',
+567 silly gunzTarPerm   420,
+567 silly gunzTarPerm   438 ]
+568 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartCommodityChannelIndex.h
+569 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartCommodityChannelIndex.h',
+569 silly gunzTarPerm   420,
+569 silly gunzTarPerm   438 ]
+570 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartCrossLineAnnotation.h
+571 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartCrossLineAnnotation.h',
+571 silly gunzTarPerm   420,
+571 silly gunzTarPerm   438 ]
+572 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartCrossLineAnnotationStyle.h
+573 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartCrossLineAnnotationStyle.h',
+573 silly gunzTarPerm   420,
+573 silly gunzTarPerm   438 ]
+574 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartData.h
+575 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartData.h',
+575 silly gunzTarPerm   420,
+575 silly gunzTarPerm   438 ]
+576 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartDataPoint.h
+577 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartDataPoint.h',
+577 silly gunzTarPerm   420,
+577 silly gunzTarPerm   438 ]
+578 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartDateTimeAxis.h
+579 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartDateTimeAxis.h',
+579 silly gunzTarPerm   420,
+579 silly gunzTarPerm   438 ]
+580 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartDateTimeCategoryAxis.h
+581 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartDateTimeCategoryAxis.h',
+581 silly gunzTarPerm   420,
+581 silly gunzTarPerm   438 ]
+582 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartDetrendedPriceOscillator.h
+583 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartDetrendedPriceOscillator.h',
+583 silly gunzTarPerm   420,
+583 silly gunzTarPerm   438 ]
+584 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartDonutSeries.h
+585 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartDonutSeries.h',
+585 silly gunzTarPerm   420,
+585 silly gunzTarPerm   438 ]
+586 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartEaseOfMovementIndicator.h
+587 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartEaseOfMovementIndicator.h',
+587 silly gunzTarPerm   420,
+587 silly gunzTarPerm   438 ]
+588 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartExponentialMovingAverageIndicator.h
+589 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartExponentialMovingAverageIndicator.h',
+589 silly gunzTarPerm   420,
+589 silly gunzTarPerm   438 ]
+590 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartFastStochasticIndicator.h
+591 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartFastStochasticIndicator.h',
+591 silly gunzTarPerm   420,
+591 silly gunzTarPerm   438 ]
+592 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartFinancialDataPoint.h
+593 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartFinancialDataPoint.h',
+593 silly gunzTarPerm   420,
+593 silly gunzTarPerm   438 ]
+594 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartFinancialIndicator.h
+595 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartFinancialIndicator.h',
+595 silly gunzTarPerm   420,
+595 silly gunzTarPerm   438 ]
+596 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartForceIndexIndicator.h
+597 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartForceIndexIndicator.h',
+597 silly gunzTarPerm   420,
+597 silly gunzTarPerm   438 ]
+598 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartFullStochasticIndicator.h
+599 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartFullStochasticIndicator.h',
+599 silly gunzTarPerm   420,
+599 silly gunzTarPerm   438 ]
+600 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartGridLineAnnotation.h
+601 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartGridLineAnnotation.h',
+601 silly gunzTarPerm   420,
+601 silly gunzTarPerm   438 ]
+602 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartGridLineAnnotationStyle.h
+603 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartGridLineAnnotationStyle.h',
+603 silly gunzTarPerm   420,
+603 silly gunzTarPerm   438 ]
+604 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartGridStyle.h
+605 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartGridStyle.h',
+605 silly gunzTarPerm   420,
+605 silly gunzTarPerm   438 ]
+606 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartLabelStyle.h
+607 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartLabelStyle.h',
+607 silly gunzTarPerm   420,
+607 silly gunzTarPerm   438 ]
+608 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartLayerAnnotation.h
+609 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartLayerAnnotation.h',
+609 silly gunzTarPerm   420,
+609 silly gunzTarPerm   438 ]
+610 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartLegendContainer.h
+611 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartLegendContainer.h',
+611 silly gunzTarPerm   420,
+611 silly gunzTarPerm   438 ]
+612 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartLegendItem.h
+613 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartLegendItem.h',
+613 silly gunzTarPerm   420,
+613 silly gunzTarPerm   438 ]
+614 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartLegendItemStyle.h
+615 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartLegendItemStyle.h',
+615 silly gunzTarPerm   420,
+615 silly gunzTarPerm   438 ]
+616 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartLegendStyle.h
+617 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartLegendStyle.h',
+617 silly gunzTarPerm   420,
+617 silly gunzTarPerm   438 ]
+618 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartLegendView.h
+619 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartLegendView.h',
+619 silly gunzTarPerm   420,
+619 silly gunzTarPerm   438 ]
+620 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartLineSeries.h
+621 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartLineSeries.h',
+621 silly gunzTarPerm   420,
+621 silly gunzTarPerm   438 ]
+622 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartLogarithmicAxis.h
+623 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartLogarithmicAxis.h',
+623 silly gunzTarPerm   420,
+623 silly gunzTarPerm   438 ]
+624 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartMACDIndicator.h
+625 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartMACDIndicator.h',
+625 silly gunzTarPerm   420,
+625 silly gunzTarPerm   438 ]
+626 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartMarketFacilitationIndex.h
+627 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartMarketFacilitationIndex.h',
+627 silly gunzTarPerm   420,
+627 silly gunzTarPerm   438 ]
+628 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartMedianPriceIndicator.h
+629 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartMedianPriceIndicator.h',
+629 silly gunzTarPerm   420,
+629 silly gunzTarPerm   438 ]
+630 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartModifiedMovingAverageIndicator.h
+631 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartModifiedMovingAverageIndicator.h',
+631 silly gunzTarPerm   420,
+631 silly gunzTarPerm   438 ]
+632 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartMoneyFlowIndexIndicator.h
+633 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartMoneyFlowIndexIndicator.h',
+633 silly gunzTarPerm   420,
+633 silly gunzTarPerm   438 ]
+634 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartMovingAverageEnvelopesIndicator.h
+635 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartMovingAverageEnvelopesIndicator.h',
+635 silly gunzTarPerm   420,
+635 silly gunzTarPerm   438 ]
+636 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartNegativeVolumeIndexIndicator.h
+637 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartNegativeVolumeIndexIndicator.h',
+637 silly gunzTarPerm   420,
+637 silly gunzTarPerm   438 ]
+638 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartNumericAxis.h
+639 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartNumericAxis.h',
+639 silly gunzTarPerm   420,
+639 silly gunzTarPerm   438 ]
+640 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartOhlcBar.h
+641 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartOhlcBar.h',
+641 silly gunzTarPerm   420,
+641 silly gunzTarPerm   438 ]
+642 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartOhlcSeries.h
+643 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartOhlcSeries.h',
+643 silly gunzTarPerm   420,
+643 silly gunzTarPerm   438 ]
+644 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartOnBalanceVolumeIndicator.h
+645 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartOnBalanceVolumeIndicator.h',
+645 silly gunzTarPerm   420,
+645 silly gunzTarPerm   438 ]
+646 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPalette.h
+647 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPalette.h',
+647 silly gunzTarPerm   420,
+647 silly gunzTarPerm   438 ]
+648 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPaletteItem.h
+649 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPaletteItem.h',
+649 silly gunzTarPerm   420,
+649 silly gunzTarPerm   438 ]
+650 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPercentagePriceOscillator.h
+651 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPercentagePriceOscillator.h',
+651 silly gunzTarPerm   420,
+651 silly gunzTarPerm   438 ]
+652 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPercentageVolumeOscillator.h
+653 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPercentageVolumeOscillator.h',
+653 silly gunzTarPerm   420,
+653 silly gunzTarPerm   438 ]
+654 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPieSeries.h
+655 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPieSeries.h',
+655 silly gunzTarPerm   420,
+655 silly gunzTarPerm   438 ]
+656 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPieVisualPoint.h
+657 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPieVisualPoint.h',
+657 silly gunzTarPerm   420,
+657 silly gunzTarPerm   438 ]
+658 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPlotView.h
+659 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPlotView.h',
+659 silly gunzTarPerm   420,
+659 silly gunzTarPerm   438 ]
+660 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPointAnnotation.h
+661 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPointAnnotation.h',
+661 silly gunzTarPerm   420,
+661 silly gunzTarPerm   438 ]
+662 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPointLabel.h
+663 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPointLabel.h',
+663 silly gunzTarPerm   420,
+663 silly gunzTarPerm   438 ]
+664 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPointLabelRender.h
+665 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPointLabelRender.h',
+665 silly gunzTarPerm   420,
+665 silly gunzTarPerm   438 ]
+666 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPointLabelStyle.h
+667 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPointLabelStyle.h',
+667 silly gunzTarPerm   420,
+667 silly gunzTarPerm   438 ]
+668 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPositiveVolumeIndexIndicator.h
+669 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPositiveVolumeIndexIndicator.h',
+669 silly gunzTarPerm   420,
+669 silly gunzTarPerm   438 ]
+670 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartPriceVolumeTrendIndicator.h
+671 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartPriceVolumeTrendIndicator.h',
+671 silly gunzTarPerm   420,
+671 silly gunzTarPerm   438 ]
+672 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartRangeBarSeries.h
+673 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartRangeBarSeries.h',
+673 silly gunzTarPerm   420,
+673 silly gunzTarPerm   438 ]
+674 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartRangeColumnSeries.h
+675 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartRangeColumnSeries.h',
+675 silly gunzTarPerm   420,
+675 silly gunzTarPerm   438 ]
+676 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartRangeDataPoint.h
+677 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartRangeDataPoint.h',
+677 silly gunzTarPerm   420,
+677 silly gunzTarPerm   438 ]
+678 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartRangeVisualPoint.h
+679 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartRangeVisualPoint.h',
+679 silly gunzTarPerm   420,
+679 silly gunzTarPerm   438 ]
+680 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartRapidAdaptiveVarianceIndicator.h
+681 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartRapidAdaptiveVarianceIndicator.h',
+681 silly gunzTarPerm   420,
+681 silly gunzTarPerm   438 ]
+682 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartRateOfChangeIndicator.h
+683 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartRateOfChangeIndicator.h',
+683 silly gunzTarPerm   420,
+683 silly gunzTarPerm   438 ]
+684 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartRelativeMomentumIndex.h
+685 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartRelativeMomentumIndex.h',
+685 silly gunzTarPerm   420,
+685 silly gunzTarPerm   438 ]
+686 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartRelativeStrengthIndex.h
+687 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartRelativeStrengthIndex.h',
+687 silly gunzTarPerm   420,
+687 silly gunzTarPerm   438 ]
+688 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartRender.h
+689 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartRender.h',
+689 silly gunzTarPerm   420,
+689 silly gunzTarPerm   438 ]
+690 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartScatterSeries.h
+691 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartScatterSeries.h',
+691 silly gunzTarPerm   420,
+691 silly gunzTarPerm   438 ]
+692 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSelectionInfo.h
+693 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSelectionInfo.h',
+693 silly gunzTarPerm   420,
+693 silly gunzTarPerm   438 ]
+694 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSeries.h
+695 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSeries.h',
+695 silly gunzTarPerm   420,
+695 silly gunzTarPerm   438 ]
+696 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSeriesRender.h
+697 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSeriesRender.h',
+697 silly gunzTarPerm   420,
+697 silly gunzTarPerm   438 ]
+698 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSeriesRenderState.h
+699 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSeriesRenderState.h',
+699 silly gunzTarPerm   420,
+699 silly gunzTarPerm   438 ]
+700 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSeriesStyle.h
+701 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSeriesStyle.h',
+701 silly gunzTarPerm   420,
+701 silly gunzTarPerm   438 ]
+702 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSignalLineIndicator.h
+703 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSignalLineIndicator.h',
+703 silly gunzTarPerm   420,
+703 silly gunzTarPerm   438 ]
+704 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSimpleMovingAverageIndicator.h
+705 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSimpleMovingAverageIndicator.h',
+705 silly gunzTarPerm   420,
+705 silly gunzTarPerm   438 ]
+706 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSlowStochasticIndicator.h
+707 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSlowStochasticIndicator.h',
+707 silly gunzTarPerm   420,
+707 silly gunzTarPerm   438 ]
+708 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKAlertAction.h
+709 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKAlertAction.h',
+709 silly gunzTarPerm   420,
+709 silly gunzTarPerm   438 ]
+710 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartSplineSeries.h
+711 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartSplineSeries.h',
+711 silly gunzTarPerm   420,
+711 silly gunzTarPerm   438 ]
+712 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartStackInfo.h
+713 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartStackInfo.h',
+713 silly gunzTarPerm   420,
+713 silly gunzTarPerm   438 ]
+714 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartStandardDeviationIndicator.h
+715 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartStandardDeviationIndicator.h',
+715 silly gunzTarPerm   420,
+715 silly gunzTarPerm   438 ]
+716 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartStyle.h
+717 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartStyle.h',
+717 silly gunzTarPerm   420,
+717 silly gunzTarPerm   438 ]
+718 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartTRIXIndicator.h
+719 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartTRIXIndicator.h',
+719 silly gunzTarPerm   420,
+719 silly gunzTarPerm   438 ]
+720 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartTitleStyle.h
+721 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartTitleStyle.h',
+721 silly gunzTarPerm   420,
+721 silly gunzTarPerm   438 ]
+722 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartTitleView.h
+723 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartTitleView.h',
+723 silly gunzTarPerm   420,
+723 silly gunzTarPerm   438 ]
+724 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartTrackball.h
+725 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartTrackball.h',
+725 silly gunzTarPerm   420,
+725 silly gunzTarPerm   438 ]
+726 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartTrackballLineAnnotation.h
+727 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartTrackballLineAnnotation.h',
+727 silly gunzTarPerm   420,
+727 silly gunzTarPerm   438 ]
+728 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartTrackballTooltipAnnotation.h
+729 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartTrackballTooltipAnnotation.h',
+729 silly gunzTarPerm   420,
+729 silly gunzTarPerm   438 ]
+730 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartTriangularMovingAverageIndicator.h
+731 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartTriangularMovingAverageIndicator.h',
+731 silly gunzTarPerm   420,
+731 silly gunzTarPerm   438 ]
+732 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartTrueRangeIndicator.h
+733 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartTrueRangeIndicator.h',
+733 silly gunzTarPerm   420,
+733 silly gunzTarPerm   438 ]
+734 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartTypicalPriceIndicator.h
+735 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartTypicalPriceIndicator.h',
+735 silly gunzTarPerm   420,
+735 silly gunzTarPerm   438 ]
+736 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartUltimateOscillator.h
+737 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartUltimateOscillator.h',
+737 silly gunzTarPerm   420,
+737 silly gunzTarPerm   438 ]
+738 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartViewAnnotation.h
+739 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartViewAnnotation.h',
+739 silly gunzTarPerm   420,
+739 silly gunzTarPerm   438 ]
+740 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartViewController.h
+741 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartViewController.h',
+741 silly gunzTarPerm   420,
+741 silly gunzTarPerm   438 ]
+742 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartVisualPoint.h
+743 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartVisualPoint.h',
+743 silly gunzTarPerm   420,
+743 silly gunzTarPerm   438 ]
+744 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartWeightedCloseIndicator.h
+745 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartWeightedCloseIndicator.h',
+745 silly gunzTarPerm   420,
+745 silly gunzTarPerm   438 ]
+746 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartWeightedMovingAverageIndicator.h
+747 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartWeightedMovingAverageIndicator.h',
+747 silly gunzTarPerm   420,
+747 silly gunzTarPerm   438 ]
+748 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKChartWilliamsPercentIndicator.h
+749 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKChartWilliamsPercentIndicator.h',
+749 silly gunzTarPerm   420,
+749 silly gunzTarPerm   438 ]
+750 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCheckShape.h
+751 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCheckShape.h',
+751 silly gunzTarPerm   420,
+751 silly gunzTarPerm   438 ]
+752 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCheckView.h
+753 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCheckView.h',
+753 silly gunzTarPerm   420,
+753 silly gunzTarPerm   438 ]
+754 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCollectionViewCell.h
+755 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCollectionViewCell.h',
+755 silly gunzTarPerm   420,
+755 silly gunzTarPerm   438 ]
+756 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCoreLayout.h
+757 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCoreLayout.h',
+757 silly gunzTarPerm   420,
+757 silly gunzTarPerm   438 ]
+758 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCoreLayoutItem.h
+759 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCoreLayoutItem.h',
+759 silly gunzTarPerm   420,
+759 silly gunzTarPerm   438 ]
+760 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCoreStackLayout.h
+761 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCoreStackLayout.h',
+761 silly gunzTarPerm   420,
+761 silly gunzTarPerm   438 ]
+762 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKCoreStackLayoutView.h
+763 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKCoreStackLayoutView.h',
+763 silly gunzTarPerm   420,
+763 silly gunzTarPerm   438 ]
+764 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataForm.h
+765 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataForm.h',
+765 silly gunzTarPerm   420,
+765 silly gunzTarPerm   438 ]
+766 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormAccessoryView.h
+767 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormAccessoryView.h',
+767 silly gunzTarPerm   420,
+767 silly gunzTarPerm   438 ]
+768 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormAutoCompleteInlineEditor.h
+769 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormAutoCompleteInlineEditor.h',
+769 silly gunzTarPerm   420,
+769 silly gunzTarPerm   438 ]
+770 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormAutocompleteController.h
+771 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormAutocompleteController.h',
+771 silly gunzTarPerm   420,
+771 silly gunzTarPerm   438 ]
+772 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormAutocompleteEditor.h
+773 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormAutocompleteEditor.h',
+773 silly gunzTarPerm   420,
+773 silly gunzTarPerm   438 ]
+774 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormConverter.h
+775 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormConverter.h',
+775 silly gunzTarPerm   420,
+775 silly gunzTarPerm   438 ]
+776 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormCustomEditor.h
+777 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormCustomEditor.h',
+777 silly gunzTarPerm   420,
+777 silly gunzTarPerm   438 ]
+778 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormDatePickerEditor.h
+779 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormDatePickerEditor.h',
+779 silly gunzTarPerm   420,
+779 silly gunzTarPerm   438 ]
+780 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormDecimalEditor.h
+781 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormDecimalEditor.h',
+781 silly gunzTarPerm   420,
+781 silly gunzTarPerm   438 ]
+782 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormEditor.h
+783 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormEditor.h',
+783 silly gunzTarPerm   420,
+783 silly gunzTarPerm   438 ]
+784 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormEditorStyle.h
+785 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormEditorStyle.h',
+785 silly gunzTarPerm   420,
+785 silly gunzTarPerm   438 ]
+786 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormEmailEditor.h
+787 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormEmailEditor.h',
+787 silly gunzTarPerm   420,
+787 silly gunzTarPerm   438 ]
+788 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormEmailValidator.h
+789 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormEmailValidator.h',
+789 silly gunzTarPerm   420,
+789 silly gunzTarPerm   438 ]
+790 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormEntityDataSource.h
+791 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormEntityDataSource.h',
+791 silly gunzTarPerm   420,
+791 silly gunzTarPerm   438 ]
+792 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormGroupTitleStyle.h
+793 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormGroupTitleStyle.h',
+793 silly gunzTarPerm   420,
+793 silly gunzTarPerm   438 ]
+794 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormInlineEditor.h
+795 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormInlineEditor.h',
+795 silly gunzTarPerm   420,
+795 silly gunzTarPerm   438 ]
+796 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormMaximumLengthValidator.h
+797 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormMaximumLengthValidator.h',
+797 silly gunzTarPerm   420,
+797 silly gunzTarPerm   438 ]
+798 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormMinimumLengthValidator.h
+799 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormMinimumLengthValidator.h',
+799 silly gunzTarPerm   420,
+799 silly gunzTarPerm   438 ]
+800 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormMultilineTextEditor.h
+801 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormMultilineTextEditor.h',
+801 silly gunzTarPerm   420,
+801 silly gunzTarPerm   438 ]
+802 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormNamePhoneEditor.h
+803 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormNamePhoneEditor.h',
+803 silly gunzTarPerm   420,
+803 silly gunzTarPerm   438 ]
+804 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormNonEmptyValidator.h
+805 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormNonEmptyValidator.h',
+805 silly gunzTarPerm   420,
+805 silly gunzTarPerm   438 ]
+806 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormNumberEditor.h
+807 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormNumberEditor.h',
+807 silly gunzTarPerm   420,
+807 silly gunzTarPerm   438 ]
+808 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormOptionsEditor.h
+809 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormOptionsEditor.h',
+809 silly gunzTarPerm   420,
+809 silly gunzTarPerm   438 ]
+810 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormOptionsViewController.h
+811 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormOptionsViewController.h',
+811 silly gunzTarPerm   420,
+811 silly gunzTarPerm   438 ]
+812 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormPasswordEditor.h
+813 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormPasswordEditor.h',
+813 silly gunzTarPerm   420,
+813 silly gunzTarPerm   438 ]
+814 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormPhoneEditor.h
+815 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormPhoneEditor.h',
+815 silly gunzTarPerm   420,
+815 silly gunzTarPerm   438 ]
+816 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormPhoneValidator.h
+817 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormPhoneValidator.h',
+817 silly gunzTarPerm   420,
+817 silly gunzTarPerm   438 ]
+818 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormPickerViewEditor.h
+819 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormPickerViewEditor.h',
+819 silly gunzTarPerm   420,
+819 silly gunzTarPerm   438 ]
+820 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormPropertyValidator.h
+821 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormPropertyValidator.h',
+821 silly gunzTarPerm   420,
+821 silly gunzTarPerm   438 ]
+822 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormRangeValidator.h
+823 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormRangeValidator.h',
+823 silly gunzTarPerm   420,
+823 silly gunzTarPerm   438 ]
+824 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormSegmentedEditor.h
+825 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormSegmentedEditor.h',
+825 silly gunzTarPerm   420,
+825 silly gunzTarPerm   438 ]
+826 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormSliderEditor.h
+827 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormSliderEditor.h',
+827 silly gunzTarPerm   420,
+827 silly gunzTarPerm   438 ]
+828 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormStepperEditor.h
+829 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormStepperEditor.h',
+829 silly gunzTarPerm   420,
+829 silly gunzTarPerm   438 ]
+830 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormStringToDateConverter.h
+831 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormStringToDateConverter.h',
+831 silly gunzTarPerm   420,
+831 silly gunzTarPerm   438 ]
+832 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormStringToTimeConverter.h
+833 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormStringToTimeConverter.h',
+833 silly gunzTarPerm   420,
+833 silly gunzTarPerm   438 ]
+834 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormSwitchEditor.h
+835 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormSwitchEditor.h',
+835 silly gunzTarPerm   420,
+835 silly gunzTarPerm   438 ]
+836 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormTextFieldEditor.h
+837 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormTextFieldEditor.h',
+837 silly gunzTarPerm   420,
+837 silly gunzTarPerm   438 ]
+838 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormTimePickerEditor.h
+839 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormTimePickerEditor.h',
+839 silly gunzTarPerm   420,
+839 silly gunzTarPerm   438 ]
+840 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormValidator.h
+841 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormValidator.h',
+841 silly gunzTarPerm   420,
+841 silly gunzTarPerm   438 ]
+842 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormViewController.h
+843 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormViewController.h',
+843 silly gunzTarPerm   420,
+843 silly gunzTarPerm   438 ]
+844 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataFormViewControllerEditor.h
+845 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataFormViewControllerEditor.h',
+845 silly gunzTarPerm   420,
+845 silly gunzTarPerm   438 ]
+846 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSource.h
+847 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSource.h',
+847 silly gunzTarPerm   420,
+847 silly gunzTarPerm   438 ]
+848 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceAutoCompleteSettings.h
+849 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceAutoCompleteSettings.h',
+849 silly gunzTarPerm   420,
+849 silly gunzTarPerm   438 ]
+850 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceCalendarSettings.h
+851 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceCalendarSettings.h',
+851 silly gunzTarPerm   420,
+851 silly gunzTarPerm   438 ]
+852 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceChartSettings.h
+853 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceChartSettings.h',
+853 silly gunzTarPerm   420,
+853 silly gunzTarPerm   438 ]
+854 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceCollectionViewSettings.h
+855 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceCollectionViewSettings.h',
+855 silly gunzTarPerm   420,
+855 silly gunzTarPerm   438 ]
+856 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceFilterDescriptor.h
+857 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceFilterDescriptor.h',
+857 silly gunzTarPerm   420,
+857 silly gunzTarPerm   438 ]
+858 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceGroup.h
+859 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceGroup.h',
+859 silly gunzTarPerm   420,
+859 silly gunzTarPerm   438 ]
+860 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceGroupDescriptor.h
+861 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceGroupDescriptor.h',
+861 silly gunzTarPerm   420,
+861 silly gunzTarPerm   438 ]
+862 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceListViewSettings.h
+863 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceListViewSettings.h',
+863 silly gunzTarPerm   420,
+863 silly gunzTarPerm   438 ]
+864 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceSettings.h
+865 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceSettings.h',
+865 silly gunzTarPerm   420,
+865 silly gunzTarPerm   438 ]
+866 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceSortDescriptor.h
+867 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceSortDescriptor.h',
+867 silly gunzTarPerm   420,
+867 silly gunzTarPerm   438 ]
+868 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDataSourceTableViewSettings.h
+869 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDataSourceTableViewSettings.h',
+869 silly gunzTarPerm   420,
+869 silly gunzTarPerm   438 ]
+870 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDateRange.h
+871 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDateRange.h',
+871 silly gunzTarPerm   420,
+871 silly gunzTarPerm   438 ]
+872 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDefinitions.h
+873 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDefinitions.h',
+873 silly gunzTarPerm   420,
+873 silly gunzTarPerm   438 ]
+874 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKDrawing.h
+875 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKDrawing.h',
+875 silly gunzTarPerm   420,
+875 silly gunzTarPerm   438 ]
+876 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKEntity.h
+877 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKEntity.h',
+877 silly gunzTarPerm   420,
+877 silly gunzTarPerm   438 ]
+878 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKEntityProperty.h
+879 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKEntityProperty.h',
+879 silly gunzTarPerm   420,
+879 silly gunzTarPerm   438 ]
+880 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroup.h
+881 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroup.h',
+881 silly gunzTarPerm   420,
+881 silly gunzTarPerm   438 ]
+882 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroupEditorsView.h
+883 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroupEditorsView.h',
+883 silly gunzTarPerm   420,
+883 silly gunzTarPerm   438 ]
+884 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroupTitleView.h
+885 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroupTitleView.h',
+885 silly gunzTarPerm   420,
+885 silly gunzTarPerm   438 ]
+886 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroupTitleViewIndicator.h
+887 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroupTitleViewIndicator.h',
+887 silly gunzTarPerm   420,
+887 silly gunzTarPerm   438 ]
+888 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroupView.h
+889 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKEntityPropertyGroupView.h',
+889 silly gunzTarPerm   420,
+889 silly gunzTarPerm   438 ]
+890 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKFill.h
+891 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKFill.h',
+891 silly gunzTarPerm   420,
+891 silly gunzTarPerm   438 ]
+892 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGauge.h
+893 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGauge.h',
+893 silly gunzTarPerm   420,
+893 silly gunzTarPerm   438 ]
+894 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGaugeIndicator.h
+895 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGaugeIndicator.h',
+895 silly gunzTarPerm   420,
+895 silly gunzTarPerm   438 ]
+896 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGaugeLabels.h
+897 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGaugeLabels.h',
+897 silly gunzTarPerm   420,
+897 silly gunzTarPerm   438 ]
+898 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGaugeLinearScale.h
+899 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGaugeLinearScale.h',
+899 silly gunzTarPerm   420,
+899 silly gunzTarPerm   438 ]
+900 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGaugeNeedle.h
+901 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGaugeNeedle.h',
+901 silly gunzTarPerm   420,
+901 silly gunzTarPerm   438 ]
+902 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGaugeRadialScale.h
+903 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGaugeRadialScale.h',
+903 silly gunzTarPerm   420,
+903 silly gunzTarPerm   438 ]
+904 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGaugeScale.h
+905 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGaugeScale.h',
+905 silly gunzTarPerm   420,
+905 silly gunzTarPerm   438 ]
+906 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGaugeSegment.h
+907 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGaugeSegment.h',
+907 silly gunzTarPerm   420,
+907 silly gunzTarPerm   438 ]
+908 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGaugeTicks.h
+909 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGaugeTicks.h',
+909 silly gunzTarPerm   420,
+909 silly gunzTarPerm   438 ]
+910 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGradientFill.h
+911 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGradientFill.h',
+911 silly gunzTarPerm   420,
+911 silly gunzTarPerm   438 ]
+912 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGridLayout.h
+913 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGridLayout.h',
+913 silly gunzTarPerm   420,
+913 silly gunzTarPerm   438 ]
+914 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKGridLayoutCellDefinition.h
+915 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKGridLayoutCellDefinition.h',
+915 silly gunzTarPerm   420,
+915 silly gunzTarPerm   438 ]
+916 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKImageFill.h
+917 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKImageFill.h',
+917 silly gunzTarPerm   420,
+917 silly gunzTarPerm   438 ]
+918 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKImageView.h
+919 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKImageView.h',
+919 silly gunzTarPerm   420,
+919 silly gunzTarPerm   438 ]
+920 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKLabel.h
+921 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKLabel.h',
+921 silly gunzTarPerm   420,
+921 silly gunzTarPerm   438 ]
+922 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKLayer.h
+923 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKLayer.h',
+923 silly gunzTarPerm   420,
+923 silly gunzTarPerm   438 ]
+924 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKLayout.h
+925 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKLayout.h',
+925 silly gunzTarPerm   420,
+925 silly gunzTarPerm   438 ]
+926 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKLayoutInfo.h
+927 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKLayoutInfo.h',
+927 silly gunzTarPerm   420,
+927 silly gunzTarPerm   438 ]
+928 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKLinearGauge.h
+929 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKLinearGauge.h',
+929 silly gunzTarPerm   420,
+929 silly gunzTarPerm   438 ]
+930 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKLinearGradientFill.h
+931 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKLinearGradientFill.h',
+931 silly gunzTarPerm   420,
+931 silly gunzTarPerm   438 ]
+932 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListView.h
+933 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListView.h',
+933 silly gunzTarPerm   420,
+933 silly gunzTarPerm   438 ]
+934 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewCell.h
+935 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewCell.h',
+935 silly gunzTarPerm   420,
+935 silly gunzTarPerm   438 ]
+936 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewCellBackgroundView.h
+937 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewCellBackgroundView.h',
+937 silly gunzTarPerm   420,
+937 silly gunzTarPerm   438 ]
+938 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewFooterCell.h
+939 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewFooterCell.h',
+939 silly gunzTarPerm   420,
+939 silly gunzTarPerm   438 ]
+940 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewGridLayout.h
+941 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewGridLayout.h',
+941 silly gunzTarPerm   420,
+941 silly gunzTarPerm   438 ]
+942 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewHeaderCell.h
+943 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewHeaderCell.h',
+943 silly gunzTarPerm   420,
+943 silly gunzTarPerm   438 ]
+944 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewLinearLayout.h
+945 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewLinearLayout.h',
+945 silly gunzTarPerm   420,
+945 silly gunzTarPerm   438 ]
+946 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewLoadOnDemandCell.h
+947 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewLoadOnDemandCell.h',
+947 silly gunzTarPerm   420,
+947 silly gunzTarPerm   438 ]
+948 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewLoadOnDemandView.h
+949 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewLoadOnDemandView.h',
+949 silly gunzTarPerm   420,
+949 silly gunzTarPerm   438 ]
+950 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewPullToRefreshView.h
+951 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewPullToRefreshView.h',
+951 silly gunzTarPerm   420,
+951 silly gunzTarPerm   438 ]
+952 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewReorderHandle.h
+953 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewReorderHandle.h',
+953 silly gunzTarPerm   420,
+953 silly gunzTarPerm   438 ]
+954 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewReusableCell.h
+955 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewReusableCell.h',
+955 silly gunzTarPerm   420,
+955 silly gunzTarPerm   438 ]
+956 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKListViewStaggeredLayout.h
+957 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKListViewStaggeredLayout.h',
+957 silly gunzTarPerm   420,
+957 silly gunzTarPerm   438 ]
+958 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKMutableArray.h
+959 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKMutableArray.h',
+959 silly gunzTarPerm   420,
+959 silly gunzTarPerm   438 ]
+960 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKObservableArray.h
+961 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKObservableArray.h',
+961 silly gunzTarPerm   420,
+961 silly gunzTarPerm   438 ]
+962 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKPredefinedShape.h
+963 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKPredefinedShape.h',
+963 silly gunzTarPerm   420,
+963 silly gunzTarPerm   438 ]
+964 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKRadialGauge.h
+965 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKRadialGauge.h',
+965 silly gunzTarPerm   420,
+965 silly gunzTarPerm   438 ]
+966 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKRadialGradientFill.h
+967 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKRadialGradientFill.h',
+967 silly gunzTarPerm   420,
+967 silly gunzTarPerm   438 ]
+968 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKRange.h
+969 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKRange.h',
+969 silly gunzTarPerm   420,
+969 silly gunzTarPerm   438 ]
+970 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKShape.h
+971 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKShape.h',
+971 silly gunzTarPerm   420,
+971 silly gunzTarPerm   438 ]
+972 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawer.h
+973 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawer.h',
+973 silly gunzTarPerm   420,
+973 silly gunzTarPerm   438 ]
+974 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerController.h
+975 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerController.h',
+975 silly gunzTarPerm   420,
+975 silly gunzTarPerm   438 ]
+976 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerDefaultTheme.h
+977 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerDefaultTheme.h',
+977 silly gunzTarPerm   420,
+977 silly gunzTarPerm   438 ]
+978 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerHeader.h
+979 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerHeader.h',
+979 silly gunzTarPerm   420,
+979 silly gunzTarPerm   438 ]
+980 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerItem.h
+981 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerItem.h',
+981 silly gunzTarPerm   420,
+981 silly gunzTarPerm   438 ]
+982 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerItemStyle.h
+983 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerItemStyle.h',
+983 silly gunzTarPerm   420,
+983 silly gunzTarPerm   438 ]
+984 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerSection.h
+985 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerSection.h',
+985 silly gunzTarPerm   420,
+985 silly gunzTarPerm   438 ]
+986 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerStyle.h
+987 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerStyle.h',
+987 silly gunzTarPerm   420,
+987 silly gunzTarPerm   438 ]
+988 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerTableView.h
+989 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerTableView.h',
+989 silly gunzTarPerm   420,
+989 silly gunzTarPerm   438 ]
+990 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerTableViewCell.h
+991 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerTableViewCell.h',
+991 silly gunzTarPerm   420,
+991 silly gunzTarPerm   438 ]
+992 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerTransition.h
+993 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerTransition.h',
+993 silly gunzTarPerm   420,
+993 silly gunzTarPerm   438 ]
+994 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSideDrawerView.h
+995 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSideDrawerView.h',
+995 silly gunzTarPerm   420,
+995 silly gunzTarPerm   438 ]
+996 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSlideView.h
+997 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSlideView.h',
+997 silly gunzTarPerm   420,
+997 silly gunzTarPerm   438 ]
+998 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSolidFill.h
+999 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSolidFill.h',
+999 silly gunzTarPerm   420,
+999 silly gunzTarPerm   438 ]
+1000 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKStackLayout.h
+1001 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKStackLayout.h',
+1001 silly gunzTarPerm   420,
+1001 silly gunzTarPerm   438 ]
+1002 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKStroke.h
+1003 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKStroke.h',
+1003 silly gunzTarPerm   420,
+1003 silly gunzTarPerm   438 ]
+1004 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKStyleID.h
+1005 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKStyleID.h',
+1005 silly gunzTarPerm   420,
+1005 silly gunzTarPerm   438 ]
+1006 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKStyleNode.h
+1007 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKStyleNode.h',
+1007 silly gunzTarPerm   420,
+1007 silly gunzTarPerm   438 ]
+1008 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKSuggestionListView.h
+1009 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKSuggestionListView.h',
+1009 silly gunzTarPerm   420,
+1009 silly gunzTarPerm   438 ]
+1010 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTab.h
+1011 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTab.h', 420, 438 ]
+1012 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTabItemView.h
+1013 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTabItemView.h',
+1013 silly gunzTarPerm   420,
+1013 silly gunzTarPerm   438 ]
+1014 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTabLayout.h
+1015 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTabLayout.h',
+1015 silly gunzTarPerm   420,
+1015 silly gunzTarPerm   438 ]
+1016 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTabLayoutBase.h
+1017 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTabLayoutBase.h',
+1017 silly gunzTarPerm   420,
+1017 silly gunzTarPerm   438 ]
+1018 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTabLayoutBase_Protected.h
+1019 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTabLayoutBase_Protected.h',
+1019 silly gunzTarPerm   420,
+1019 silly gunzTarPerm   438 ]
+1020 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTabOverflowLayout.h
+1021 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTabOverflowLayout.h',
+1021 silly gunzTarPerm   420,
+1021 silly gunzTarPerm   438 ]
+1022 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTabScrollLayout.h
+1023 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTabScrollLayout.h',
+1023 silly gunzTarPerm   420,
+1023 silly gunzTarPerm   438 ]
+1024 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTabStrip.h
+1025 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTabStrip.h',
+1025 silly gunzTarPerm   420,
+1025 silly gunzTarPerm   438 ]
+1026 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTabView.h
+1027 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTabView.h',
+1027 silly gunzTarPerm   420,
+1027 silly gunzTarPerm   438 ]
+1028 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTextField.h
+1029 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTextField.h',
+1029 silly gunzTarPerm   420,
+1029 silly gunzTarPerm   438 ]
+1030 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKTheme.h
+1031 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKTheme.h',
+1031 silly gunzTarPerm   420,
+1031 silly gunzTarPerm   438 ]
+1032 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKView.h
+1033 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKView.h',
+1033 silly gunzTarPerm   420,
+1033 silly gunzTarPerm   438 ]
+1034 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TKViewTransition.h
+1035 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TKViewTransition.h',
+1035 silly gunzTarPerm   420,
+1035 silly gunzTarPerm   438 ]
+1036 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Headers/TelerikUI.h
+1037 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Headers/TelerikUI.h',
+1037 silly gunzTarPerm   420,
+1037 silly gunzTarPerm   438 ]
+1038 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Info.plist
+1039 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Info.plist', 420, 438 ]
+1040 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/Modules/module.modulemap
+1041 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/Modules/module.modulemap',
+1041 silly gunzTarPerm   420,
+1041 silly gunzTarPerm   438 ]
+1042 silly gunzTarPerm extractEntry platforms/ios/TelerikUI.framework/TelerikUI
+1043 silly gunzTarPerm modified mode [ 'platforms/ios/TelerikUI.framework/TelerikUI', 493, 511 ]
+1044 silly gunzTarPerm extractEntry references.d.ts
+1045 silly gunzTarPerm modified mode [ 'references.d.ts', 420, 438 ]
+1046 silly gunzTarPerm extractEntry scripts/email-prompt.js
+1047 silly gunzTarPerm modified mode [ 'scripts/email-prompt.js', 420, 438 ]
+1048 silly gunzTarPerm extractEntry scripts/eula-prompt.js
+1049 silly gunzTarPerm modified mode [ 'scripts/eula-prompt.js', 420, 438 ]
+1050 verbose write writing to D:\projects\kbmapp\node_modules\nativescript-telerik-ui\package.json
+1051 info preinstall nativescript-telerik-ui@2.0.1
+1052 verbose unsafe-perm in lifecycle true
+1053 verbose readDependencies loading dependencies from D:\projects\kbmapp\node_modules\nativescript-telerik-ui\package.json
+1054 silly prepareForInstallMany adding tns-core-modules@^3.0.0 || ^3.0.0-rc.1 from nativescript-telerik-ui peerDependencies
+1055 warn peerDependencies The peer dependency tns-core-modules@^3.0.0 || ^3.0.0-rc.1 included from nativescript-telerik-ui will no
+1056 warn peerDependencies longer be automatically installed to fulfill the peerDependency
+1057 warn peerDependencies in npm 3+. Your application will need to depend on it explicitly.
+1058 verbose readDependencies loading dependencies from D:\projects\kbmapp\node_modules\nativescript-telerik-ui\package.json
+1059 silly install resolved []
+1060 verbose about to build D:\projects\kbmapp\node_modules\nativescript-telerik-ui
+1061 info build D:\projects\kbmapp\node_modules\nativescript-telerik-ui
+1062 info linkStuff nativescript-telerik-ui@2.0.1
+1063 silly linkStuff nativescript-telerik-ui@2.0.1 has D:\projects\kbmapp\node_modules as its parent node_modules
+1064 verbose linkBins nativescript-telerik-ui@2.0.1
+1065 verbose linkMans nativescript-telerik-ui@2.0.1
+1066 verbose rebuildBundles nativescript-telerik-ui@2.0.1
+1067 info install nativescript-telerik-ui@2.0.1
+1068 info postinstall nativescript-telerik-ui@2.0.1
+1069 verbose unsafe-perm in lifecycle true
+1070 verbose readDependencies loading dependencies from D:\projects\kbmapp\package.json
+1071 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\abbrev\package.json
+1072 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\adm-zip\package.json
+1073 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\ajv\package.json
+1074 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\amdefine\package.json
+1075 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\ansi-regex\package.json
+1076 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\ansi-styles\package.json
+1077 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\aproba\package.json
+1078 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\are-we-there-yet\package.json
+1079 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\array-find-index\package.json
+1080 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\asn1\package.json
+1081 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\assert-plus\package.json
+1082 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\async-foreach\package.json
+1083 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\asynckit\package.json
+1084 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\aws-sign2\package.json
+1085 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\aws4\package.json
+1086 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\babel-code-frame\package.json
+1087 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\babel-messages\package.json
+1088 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\babel-runtime\package.json
+1089 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\babel-traverse\package.json
+1090 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\babel-types\package.json
+1091 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\babylon\package.json
+1092 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\balanced-match\package.json
+1093 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\bcrypt-pbkdf\package.json
+1094 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\block-stream\package.json
+1095 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\bluebird\package.json
+1096 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\boom\package.json
+1097 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\brace-expansion\package.json
+1098 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\builtin-modules\package.json
+1099 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\camelcase\package.json
+1100 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\camelcase-keys\package.json
+1101 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\caseless\package.json
+1102 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\chalk\package.json
+1103 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\cliui\package.json
+1104 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\co\package.json
+1105 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\code-point-at\package.json
+1106 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\combined-stream\package.json
+1107 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\concat-map\package.json
+1108 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\console-control-strings\package.json
+1109 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\core-js\package.json
+1110 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\core-util-is\package.json
+1111 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\cross-spawn\package.json
+1112 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\cryptiles\package.json
+1113 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\currently-unhandled\package.json
+1114 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\dashdash\package.json
+1115 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\debug\package.json
+1116 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\decamelize\package.json
+1117 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\delayed-stream\package.json
+1118 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\delegates\package.json
+1119 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\ecc-jsbn\package.json
+1120 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\error-ex\package.json
+1121 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\escape-string-regexp\package.json
+1122 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\esutils\package.json
+1123 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\extend\package.json
+1124 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\extsprintf\package.json
+1125 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\find-up\package.json
+1126 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\forever-agent\package.json
+1127 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\form-data\package.json
+1128 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\fs.realpath\package.json
+1129 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\fstream\package.json
+1130 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\gauge\package.json
+1131 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\gaze\package.json
+1132 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\get-caller-file\package.json
+1133 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\get-stdin\package.json
+1134 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\getpass\package.json
+1135 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\glob\package.json
+1136 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\globals\package.json
+1137 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\globule\package.json
+1138 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\graceful-fs\package.json
+1139 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\har-schema\package.json
+1140 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\har-validator\package.json
+1141 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\has-ansi\package.json
+1142 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\has-unicode\package.json
+1143 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\hawk\package.json
+1144 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\hoek\package.json
+1145 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\hosted-git-info\package.json
+1146 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\http-signature\package.json
+1147 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\ie-shim\package.json
+1148 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\in-publish\package.json
+1149 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\indent-string\package.json
+1150 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\inflight\package.json
+1151 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\inherits\package.json
+1152 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\invariant\package.json
+1153 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\invert-kv\package.json
+1154 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\is-arrayish\package.json
+1155 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\is-builtin-module\package.json
+1156 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\is-finite\package.json
+1157 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\is-fullwidth-code-point\package.json
+1158 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\is-typedarray\package.json
+1159 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\is-utf8\package.json
+1160 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\isarray\package.json
+1161 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\isexe\package.json
+1162 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\isstream\package.json
+1163 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\jodid25519\package.json
+1164 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\js-base64\package.json
+1165 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\js-tokens\package.json
+1166 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\jsbn\package.json
+1167 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\json-schema\package.json
+1168 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\json-stable-stringify\package.json
+1169 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\json-stringify-safe\package.json
+1170 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\jsonify\package.json
+1171 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\jsprim\package.json
+1172 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\lazy\package.json
+1173 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\lcid\package.json
+1174 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\load-json-file\package.json
+1175 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\lodash\package.json
+1176 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\lodash.assign\package.json
+1177 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\lodash.clonedeep\package.json
+1178 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\lodash.mergewith\package.json
+1179 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\loose-envify\package.json
+1180 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\loud-rejection\package.json
+1181 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\lru-cache\package.json
+1182 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\map-obj\package.json
+1183 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\meow\package.json
+1184 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\mime-db\package.json
+1185 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\mime-types\package.json
+1186 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\minimatch\package.json
+1187 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\minimist\package.json
+1188 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\mkdirp\package.json
+1189 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\moment\package.json
+1190 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\ms\package.json
+1191 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nan\package.json
+1192 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nativescript-angular\package.json
+1193 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nativescript-dev-android-snapshot\package.json
+1194 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nativescript-dev-sass\package.json
+1195 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nativescript-dev-typescript\package.json
+1196 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nativescript-hook\package.json
+1197 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nativescript-intl\package.json
+1198 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nativescript-localstorage\package.json
+1199 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nativescript-telerik-ui\package.json
+1200 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nativescript-theme-core\package.json
+1201 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\node-gyp\package.json
+1202 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\node-sass\package.json
+1203 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\nopt\package.json
+1204 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\normalize-package-data\package.json
+1205 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\npmlog\package.json
+1206 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\number-is-nan\package.json
+1207 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\oauth-sign\package.json
+1208 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\object-assign\package.json
+1209 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\once\package.json
+1210 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\os-homedir\package.json
+1211 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\os-locale\package.json
+1212 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\os-tmpdir\package.json
+1213 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\osenv\package.json
+1214 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\parse-json\package.json
+1215 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\parse5\package.json
+1216 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\path-exists\package.json
+1217 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\path-is-absolute\package.json
+1218 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\path-type\package.json
+1219 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\performance-now\package.json
+1220 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\pify\package.json
+1221 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\pinkie\package.json
+1222 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\pinkie-promise\package.json
+1223 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\process-nextick-args\package.json
+1224 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\pseudomap\package.json
+1225 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\punycode\package.json
+1226 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\qs\package.json
+1227 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\querystring\package.json
+1228 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\read-pkg\package.json
+1229 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\read-pkg-up\package.json
+1230 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\readable-stream\package.json
+1231 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\redent\package.json
+1232 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\reflect-metadata\package.json
+1233 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\regenerator-runtime\package.json
+1234 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\repeating\package.json
+1235 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\request\package.json
+1236 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\require-directory\package.json
+1237 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\require-main-filename\package.json
+1238 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\rimraf\package.json
+1239 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\rxjs\package.json
+1240 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\safe-buffer\package.json
+1241 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\sass-graph\package.json
+1242 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\scss-tokenizer\package.json
+1243 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\semver\package.json
+1244 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\set-blocking\package.json
+1245 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\shelljs\package.json
+1246 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\signal-exit\package.json
+1247 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\sntp\package.json
+1248 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\source-map\package.json
+1249 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\spdx-correct\package.json
+1250 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\spdx-expression-parse\package.json
+1251 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\spdx-license-ids\package.json
+1252 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\sshpk\package.json
+1253 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\stdout-stream\package.json
+1254 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\string-width\package.json
+1255 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\string_decoder\package.json
+1256 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\stringstream\package.json
+1257 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\strip-ansi\package.json
+1258 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\strip-bom\package.json
+1259 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\strip-indent\package.json
+1260 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\supports-color\package.json
+1261 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\symbol-observable\package.json
+1262 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\tar\package.json
+1263 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\tns-core-modules\package.json
+1264 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\tns-core-modules-widgets\package.json
+1265 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\to-fast-properties\package.json
+1266 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\tough-cookie\package.json
+1267 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\trim-newlines\package.json
+1268 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\tunnel-agent\package.json
+1269 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\tweetnacl\package.json
+1270 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\typescript\package.json
+1271 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\url\package.json
+1272 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\util-deprecate\package.json
+1273 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\uuid\package.json
+1274 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\validate-npm-package-license\package.json
+1275 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\verror\package.json
+1276 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\which\package.json
+1277 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\which-module\package.json
+1278 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\wide-align\package.json
+1279 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\wrap-ansi\package.json
+1280 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\wrappy\package.json
+1281 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\y18n\package.json
+1282 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\yallist\package.json
+1283 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\yargs\package.json
+1284 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\yargs-parser\package.json
+1285 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\zone.js\package.json
+1286 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\babylon\package.json
+1287 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\babylon.cmd\package.json
+1288 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\in-install\package.json
+1289 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\in-install.cmd\package.json
+1290 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\in-publish\package.json
+1291 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\in-publish.cmd\package.json
+1292 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\loose-envify\package.json
+1293 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\loose-envify.cmd\package.json
+1294 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\mkdirp\package.json
+1295 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\mkdirp.cmd\package.json
+1296 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\node-gyp\package.json
+1297 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\node-gyp.cmd\package.json
+1298 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\node-sass\package.json
+1299 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\node-sass.cmd\package.json
+1300 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\nopt\package.json
+1301 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\nopt.cmd\package.json
+1302 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\not-in-install\package.json
+1303 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\not-in-install.cmd\package.json
+1304 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\not-in-publish\package.json
+1305 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\not-in-publish.cmd\package.json
+1306 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\rimraf\package.json
+1307 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\rimraf.cmd\package.json
+1308 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\sassgraph\package.json
+1309 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\sassgraph.cmd\package.json
+1310 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\semver\package.json
+1311 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\semver.cmd\package.json
+1312 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\shjs\package.json
+1313 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\shjs.cmd\package.json
+1314 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\sshpk-conv\package.json
+1315 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\sshpk-conv.cmd\package.json
+1316 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\sshpk-sign\package.json
+1317 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\sshpk-sign.cmd\package.json
+1318 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\sshpk-verify\package.json
+1319 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\sshpk-verify.cmd\package.json
+1320 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\strip-indent\package.json
+1321 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\strip-indent.cmd\package.json
+1322 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\tsc\package.json
+1323 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\tsc.cmd\package.json
+1324 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\tsserver\package.json
+1325 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\tsserver.cmd\package.json
+1326 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\uuid\package.json
+1327 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\uuid.cmd\package.json
+1328 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\which\package.json
+1329 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\.bin\which.cmd\package.json
+1330 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\@angular\common\package.json
+1331 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\@angular\compiler\package.json
+1332 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\@angular\core\package.json
+1333 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\@angular\forms\package.json
+1334 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\@angular\http\package.json
+1335 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\@angular\platform-browser\package.json
+1336 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\@angular\platform-browser-dynamic\package.json
+1337 verbose targetResolver reading package data from D:\projects\kbmapp\node_modules\@angular\router\package.json
+1338 verbose already installed skipping tns-core-modules@^3.0.0 || ^3.0.0-rc.1 D:\projects\kbmapp
+1339 silly install resolved []
+1340 verbose unlock done using C:\Users\orenl\AppData\Roaming\npm-cache\_locks\nativescript-telerik-ui-67c158a21c81991a.lock for D:\projects\kbmapp\node_modules\nativescript-telerik-ui
+1341 verbose validateInstall loading D:\projects\kbmapp\package.json for validation
+1342 verbose stack Error: The package tns-core-modules@2.4.4 does not satisfy its siblings' peerDependencies requirements!
+1342 verbose stack     at d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\lib\install.js:125:32
+1342 verbose stack     at d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\lib\install.js:268:7
+1342 verbose stack     at d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+1342 verbose stack     at d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+1342 verbose stack     at cb (d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+1342 verbose stack     at d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+1342 verbose stack     at cb (d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+1342 verbose stack     at d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+1342 verbose stack     at asyncMap (d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\node_modules\slide\lib\async-map.js:27:18)
+1342 verbose stack     at next (d:\Users\orenl\AppData\Roaming\nvm\v4.2.4\node_modules\npm\node_modules\read-installed\read-installed.js:234:5)
+1343 verbose cwd D:\projects\kbmapp
+1344 error Windows_NT 10.0.15063
+1345 error argv "d:\\Program Files\\nodejs\\node.exe" "d:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "nativescript-telerik-ui"
+1346 error node v4.2.4
+1347 error npm  v2.14.12
+1348 error code EPEERINVALID
+1349 error peerinvalid The package tns-core-modules@2.4.4 does not satisfy its siblings' peerDependencies requirements!
+1349 error peerinvalid Peer nativescript-telerik-ui@2.0.1 wants tns-core-modules@^3.0.0 || ^3.0.0-rc.1
+1350 verbose exit [ 1, true ]
